@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Storyboard Generator",
+  "description": "An application for users to generate a series of images from a script or story using the Gemini 2.5 Flash Image model. Write your story, and let Gemini create the visuals.",
+  "requestFramePermissions": []
+}
